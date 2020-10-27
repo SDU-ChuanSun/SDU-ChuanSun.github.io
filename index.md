@@ -7,19 +7,23 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.html).
 
 # EDUCATION
->  _**MS, Particle Physics**_
+>  **_MS, Particle Physics_**
 >
->  **Shandong University**, Qingdao, China (Sept. 2018 - Jul. 2021)
+>    **Shandong University**, Qingdao, China (Sept. 2018 - Jul. 2021)
 >
->  **Relevant coursework:** Particle Physics, Advanced Quantum Mechanics, Fundamental Group Theory.
+>    **Relevant coursework:** Particle Physics, Advanced Quantum Mechanics, Fundamental Group Theory.
 >
->  **Awards:** Excellent Student Award, 2018; Second-class Scholarship, 2019.
+>    **Awards:** Excellent Student Award, 2018; Second-class Scholarship, 2019.
 
->  _**BS, Physics and Microelectronics**_
+
+>  **_BS, Physics and Microelectronics_**
 >
->  **Shandong University**, Jinan, China (Sept. 2013 - Jul. 2017)
+>    **Shandong University**, Jinan, China (Sept. 2013 - Jul. 2017)
 >
->  **Relevant coursework:** Quantum Mechanics, Atomic Physics, Methods of Mathematical Physics
+>    **Relevant coursework:** Quantum Mechanics, Atomic Physics, Methods of Mathematical Physics
+
+
+# EXPERIENCE
 
 -----
 There should be whitespace between paragraphs.
