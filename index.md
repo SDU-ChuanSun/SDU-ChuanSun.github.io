@@ -9,6 +9,7 @@
 >
 >    **Awards:** Excellent Student Award, 2018; Second-class Scholarship, 2019.
 
+---------------------
 
 >  **_BS, Physics and Microelectronics_**
 >
