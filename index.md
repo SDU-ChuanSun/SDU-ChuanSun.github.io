@@ -7,10 +7,14 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.html).
 
 # EDUCATION
-> ##Shandong University, Qingdao, China (Sept. 2018 - Jul. 2021)
->  MS, Particle Physics
->  Relevant coursework: Particle Physics, Advanced Quantum Mechanics, Fundamental Group Theory
->  Awards: Excellent Student Award, 2018; Second-class Scholarship, 2019
+>  **Shandong University**, Qingdao, China (Sept. 2018 - Jul. 2021)
+>
+>  **MS, Particle Physics**
+>
+>  **Relevant coursework:** Particle Physics, Advanced Quantum Mechanics, Fundamental Group Theory.
+>
+>  **Awards:** Excellent Student Award, 2018; Second-class Scholarship, 2019.
+>
 
 
 -----
